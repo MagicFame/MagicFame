@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jérémie Uzan (@MagicFame).
-- I'm a Software Engineer who works for Modis.
+- I'm a Software Engineer who works for Doctrine.
 - 👀 I’m interested in new technologies and in Web 3.0.
 - 🌱 I’m currently learning advanced pattern in Javascript.
 - 💞️ I’m looking to collaborate on collaborative projects.
